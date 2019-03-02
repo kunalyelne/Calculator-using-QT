@@ -5,7 +5,7 @@ C++ GUI Calculator app
 The project includes working with widgets in many ways, setting up an interface, stylesheets, casting, regular expressions and much more.
 
 <div style="align:center">
-  <img src ="/images/result.jpg"/>
+  <img src ="/result.jpg"/>
 </div>
 
 ## Conclusion:
